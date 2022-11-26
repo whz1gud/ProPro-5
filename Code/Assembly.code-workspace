@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdlib.h": "c",
+			"stdbool.h": "c",
+			"stdio.h": "c",
+			"type_traits": "c"
+		}
+	}
+}
